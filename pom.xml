@@ -18,10 +18,12 @@
   <distributionManagement>
   	<snapshotRepository>
   		<id>jforg</id>
+  		<name>snapshot</name>
   		<url>http://bviswanath:8081/artifactory/swebapp_LCSNAPSHOT</url>
   	</snapshotRepository>
   	<repository>
   		<id>jfrog</id>
+  		<name>release</name>
   		<url>http://bviswanath:8081/artifactory/swebapp_LCRELEASE</url>
   	</repository>
   </distributionManagement>

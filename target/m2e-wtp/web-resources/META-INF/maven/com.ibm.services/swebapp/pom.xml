@@ -17,7 +17,7 @@
   </dependencies>
   <distributionManagement>
   	<snapshotRepository>
-  		<id>jforg</id>
+  		<id>jfrog</id>
   		<name>snapshot</name>
   		<url>http://bviswanath:8081/artifactory/swebapp_LCSNAPSHOT</url>
   	</snapshotRepository>
